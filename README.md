@@ -55,6 +55,18 @@ socialmedia_checklist.md
 
 ---
 
+## Task 5: Cyber Crime Awareness
+In this task, I learned about cyber crimes and how to stay safe online.
+
+- Created a case study based on a real-life type situation  
+- Made a prevention checklist  
+
+Files:
+case_study.md  
+prevention_checklist.md  
+
+---
+
 ## What I Learned
 - Basics of digital literacy  
 - How to create online profiles  
